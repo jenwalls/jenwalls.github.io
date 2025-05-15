@@ -14,7 +14,7 @@ plugins:
 - jekyll-seo-tag
 
 minima:
-  skin: dark
+  skin: solarized-dark
 
-  #nav_pages:
-  #   - about.md
+  nav_pages:
+     - about.md
