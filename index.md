@@ -2,4 +2,4 @@
 title: Home
 ---
 
-## Welcome to Simplest Jekyll demo
+## Exploring the Milky Way
