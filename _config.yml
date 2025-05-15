@@ -1,9 +1,9 @@
 # Site settings
-title: My Website
+title: Jen Wallace
 author:
-  name: Jen wall
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Jennifer Wallace
+  email: jennifer.2.wallace@uconn.edu
+description: "My personal website"
 
 # Build settings
 remote_theme: pages-themes/midnight@v0.2.0
