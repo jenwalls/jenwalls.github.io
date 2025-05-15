@@ -6,7 +6,8 @@ author:
 description: "My personal website"
 
 # Build settings
-remote_theme: jekyll/minima@d4d779a #pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima@d4d779a #"mmistakes/minimal-mistakes"
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
@@ -14,3 +15,6 @@ plugins:
 
 minima:
   skin: dark
+
+  #nav_pages:
+  #   - about.md
