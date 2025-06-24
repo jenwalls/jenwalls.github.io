@@ -2,8 +2,8 @@
 main:
   - title: "About Me"
     url: https://jenwalls.github.io/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "CV"
+    url: https://jenwalls.github.io/cv/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
