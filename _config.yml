@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Jennifer Wallace"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/jen_bio_photo.jpeg"
   bio              : "Star Formation in the Milky Way"
   location         : "University of Connecticut"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto:jennifer.2.wallace@uconn.edu"
+       url: "mailto:jennifer.2.wallace@uconn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
