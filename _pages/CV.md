@@ -8,5 +8,5 @@ toc: true
 
 I can attach my CV here!
 
-<iframe src="https://github.com/jenwalls/jenwalls.github.io/_pages/Wallace_CV_2025.pdf" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://github.com/jenwalls/jenwalls.github.io/master/_pages/Wallace_CV_2025.pdf" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
 
