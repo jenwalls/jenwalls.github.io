@@ -7,3 +7,4 @@ toc: true
 ---
 
 I can attach my CV here!
+<embed src="_pages/Wallace_CV_2025.pdf" type="application/pdf" width="100%" height="600px" title="Embedded PDF Viewer" />
